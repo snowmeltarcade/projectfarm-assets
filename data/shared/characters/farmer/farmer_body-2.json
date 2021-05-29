@@ -1,0 +1,771 @@
+{
+    "type": "farmer",
+    "part": "body",
+    "actions": [
+        {
+            "action": "default",
+            "down": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 4,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 5,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 6,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 7,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 4,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 5,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 6,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 7,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 4,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 5,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 6,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 7,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 4,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 5,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 6,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 7,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "none": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            }
+        },
+        {
+            "action": "Run",
+            "down": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 1,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 0,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 3,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 2,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "none": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            }
+        },
+        {
+            "action": "Walk",
+            "down": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 5,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "up_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_left": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 0,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 1,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 2,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 3,
+                        "tileY": 7,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "down_right": {
+                "animation": [
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 4,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 5,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 6,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer2",
+                        "tileX": 7,
+                        "tileY": 6,
+                        "milliseconds": 300
+                    }
+                ]
+            },
+            "none": {
+                "animation": [
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 0,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 1,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 2,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    },
+                    {
+                        "tileSet": "farmer1",
+                        "tileX": 3,
+                        "tileY": 4,
+                        "milliseconds": 300
+                    }
+                ]
+            }
+        }
+    ]
+}

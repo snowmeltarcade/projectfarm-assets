@@ -1,0 +1,96 @@
+{
+  "animations": [
+    {
+      "name": "chicken_feet-pink",
+      "filePath": "{SharedCharacters}/chicken/chicken_feet-pink.json"
+    },
+    {
+      "name": "chicken_feet-orange",
+      "filePath": "{SharedCharacters}/chicken/chicken_feet-orange.json"
+    },
+    {
+      "name": "chicken_clothes_bottom",
+      "filePath": "{SharedCharacters}/chicken/chicken_clothes_bottom.json"
+    },
+    {
+      "name": "chicken_clothes_top",
+      "filePath": "{SharedCharacters}/chicken/chicken_clothes_top.json"
+    },
+    {
+      "name": "chicken_body-blue",
+      "filePath": "{SharedCharacters}/chicken/chicken_body-blue.json"
+    },
+    {
+      "name": "chicken_body-white",
+      "filePath": "{SharedCharacters}/chicken/chicken_body-white.json"
+    },
+    {
+      "name": "chicken_hair-green",
+      "filePath": "{SharedCharacters}/chicken/chicken_hair-green.json"
+    },
+    {
+      "name": "chicken_hair-red",
+      "filePath": "{SharedCharacters}/chicken/chicken_hair-red.json"
+    },
+    {
+      "name": "farmer_body-1",
+      "filePath": "{SharedCharacters}/farmer/farmer_body-1.json"
+    },
+    {
+      "name": "farmer_body-2",
+      "filePath": "{SharedCharacters}/farmer/farmer_body-2.json"
+    },
+    {
+      "name": "farmer_body-3",
+      "filePath": "{SharedCharacters}/farmer/farmer_body-3.json"
+    },
+    {
+      "name": "farmer_clothesbottom-1",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothesbottom-1.json"
+    },
+    {
+      "name": "farmer_clothesbottom-2",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothesbottom-2.json"
+    },
+    {
+      "name": "farmer_clothesbottom-3",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothesbottom-3.json"
+    },
+    {
+      "name": "farmer_clothestop-1",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothestop-1.json"
+    },
+    {
+      "name": "farmer_clothestop-2",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothestop-2.json"
+    },
+    {
+      "name": "farmer_clothestop-3",
+      "filePath": "{SharedCharacters}/farmer/farmer_clothestop-3.json"
+    },
+    {
+      "name": "farmer_feet-1",
+      "filePath": "{SharedCharacters}/farmer/farmer_feet-1.json"
+    },
+    {
+      "name": "farmer_feet-2",
+      "filePath": "{SharedCharacters}/farmer/farmer_feet-2.json"
+    },
+    {
+      "name": "farmer_feet-3",
+      "filePath": "{SharedCharacters}/farmer/farmer_feet-3.json"
+    },
+    {
+      "name": "farmer_hair-1",
+      "filePath": "{SharedCharacters}/farmer/farmer_hair-1.json"
+    },
+    {
+      "name": "farmer_hair-2",
+      "filePath": "{SharedCharacters}/farmer/farmer_hair-2.json"
+    },
+    {
+      "name": "farmer_hair-3",
+      "filePath": "{SharedCharacters}/farmer/farmer_hair-3.json"
+    }
+  ]
+}
