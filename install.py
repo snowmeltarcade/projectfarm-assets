@@ -19,10 +19,22 @@ def runCmd(cmd, cwd=None):
     subprocess.run(cmd, cwd=cwd)
 
 
+def installData(installPath):
+    print(f"Install data to path: {installPath}")
+
+    dataPath = os.path.join(os.getcwd(), "data")
+
+    shutil.copytree(dataPath, installPath, dirs_exist_ok=True)
+
+    print("Installed data.")
+
+
 print("Installing all assets...")
 
 args = configureArguments()
 
 installPath = os.path.join(args.path, "data")
+
+installData(installPath)
 
 print("Installed all assets.")
