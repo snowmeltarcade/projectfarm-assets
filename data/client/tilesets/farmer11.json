@@ -1,0 +1,8 @@
+{
+    "name": "farmer11",
+    "imagePath": "{ClientTileSets}/farmer11.png",
+    "numberOfColumns": 8,
+    "numberOfTiles": 1440,
+    "tileWidth": 128,
+    "tileHeight": 128
+}

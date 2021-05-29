@@ -1,0 +1,8 @@
+{
+  "name": "character_tileset",
+  "imagePath": "{ClientTileSets}/tileset1.png",
+  "numberOfColumns": 25,
+  "numberOfTiles": 925,
+  "tileWidth": 32,
+  "tileHeight": 32
+}

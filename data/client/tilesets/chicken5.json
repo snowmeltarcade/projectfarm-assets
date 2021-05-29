@@ -1,0 +1,8 @@
+{
+    "name": "chicken5",
+    "imagePath": "{ClientTileSets}/chicken5.png",
+    "numberOfColumns": 8,
+    "numberOfTiles": 624,
+    "tileWidth": 128,
+    "tileHeight": 128
+}

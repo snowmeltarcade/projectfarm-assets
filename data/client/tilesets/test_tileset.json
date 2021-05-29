@@ -1,0 +1,8 @@
+{
+  "name": "test_tileset",
+  "imagePath": "{ClientTileSets}/tileset1.png",
+  "numberOfColumns": 50,
+  "numberOfTiles": 1850,
+  "tileWidth": 16,
+  "tileHeight": 16
+}

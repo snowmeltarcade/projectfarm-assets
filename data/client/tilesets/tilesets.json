@@ -1,0 +1,156 @@
+{
+  "tileSets": [
+    {
+      "name": "tileset1",
+      "filePath": "{ClientTileSets}/tileset.json"
+    },
+    {
+      "name": "tileset2",
+      "filePath": "{ClientTileSets}/tileset2.json"
+    },
+    {
+      "name": "tileset3",
+      "filePath": "{ClientTileSets}/tileset1.json"
+    },
+    {
+      "name": "test_tileset",
+      "filePath": "{ClientTileSets}/test_tileset.json"
+    },
+    {
+      "name": "character_tileset",
+      "filePath": "{ClientTileSets}/character_tileset.json"
+    },
+    {
+      "name": "chicken0",
+      "filePath": "{ClientTileSets}/chicken0.json"
+    },
+    {
+      "name": "chicken1",
+      "filePath": "{ClientTileSets}/chicken1.json"
+    },
+    {
+      "name": "chicken2",
+      "filePath": "{ClientTileSets}/chicken2.json"
+    },
+    {
+      "name": "chicken3",
+      "filePath": "{ClientTileSets}/chicken3.json"
+    },
+    {
+      "name": "chicken4",
+      "filePath": "{ClientTileSets}/chicken4.json"
+    },
+    {
+      "name": "chicken5",
+      "filePath": "{ClientTileSets}/chicken5.json"
+    },
+    {
+      "name": "chicken6",
+      "filePath": "{ClientTileSets}/chicken6.json"
+    },
+    {
+      "name": "chicken7",
+      "filePath": "{ClientTileSets}/chicken7.json"
+    },
+    {
+      "name": "chicken8",
+      "filePath": "{ClientTileSets}/chicken8.json"
+    },
+    {
+      "name": "chicken9",
+      "filePath": "{ClientTileSets}/chicken9.json"
+    },
+    {
+      "name": "farmer0",
+      "filePath": "{ClientTileSets}/farmer0.json"
+    },
+    {
+      "name": "farmer1",
+      "filePath": "{ClientTileSets}/farmer1.json"
+    },
+    {
+      "name": "farmer2",
+      "filePath": "{ClientTileSets}/farmer2.json"
+    },
+    {
+      "name": "farmer3",
+      "filePath": "{ClientTileSets}/farmer3.json"
+    },
+    {
+      "name": "farmer4",
+      "filePath": "{ClientTileSets}/farmer4.json"
+    },
+    {
+      "name": "farmer5",
+      "filePath": "{ClientTileSets}/farmer5.json"
+    },
+    {
+      "name": "farmer6",
+      "filePath": "{ClientTileSets}/farmer6.json"
+    },
+    {
+      "name": "farmer7",
+      "filePath": "{ClientTileSets}/farmer7.json"
+    },
+    {
+      "name": "farmer8",
+      "filePath": "{ClientTileSets}/farmer8.json"
+    },
+    {
+      "name": "farmer9",
+      "filePath": "{ClientTileSets}/farmer9.json"
+    },
+    {
+      "name": "farmer10",
+      "filePath": "{ClientTileSets}/farmer10.json"
+    },
+    {
+      "name": "farmer11",
+      "filePath": "{ClientTileSets}/farmer11.json"
+    },
+    {
+      "name": "farmer12",
+      "filePath": "{ClientTileSets}/farmer12.json"
+    },
+    {
+      "name": "farmer13",
+      "filePath": "{ClientTileSets}/farmer13.json"
+    },
+    {
+      "name": "farmer14",
+      "filePath": "{ClientTileSets}/farmer14.json"
+    },
+    {
+      "name": "farmer15",
+      "filePath": "{ClientTileSets}/farmer15.json"
+    },
+    {
+      "name": "farmer16",
+      "filePath": "{ClientTileSets}/farmer16.json"
+    },
+    {
+      "name": "farmer17",
+      "filePath": "{ClientTileSets}/farmer17.json"
+    },
+    {
+      "name": "farmer18",
+      "filePath": "{ClientTileSets}/farmer18.json"
+    },
+    {
+      "name": "farmer19",
+      "filePath": "{ClientTileSets}/farmer19.json"
+    },
+    {
+      "name": "farmer20",
+      "filePath": "{ClientTileSets}/farmer20.json"
+    },
+    {
+      "name": "farmer21",
+      "filePath": "{ClientTileSets}/farmer21.json"
+    },
+    {
+      "name": "farmer22",
+      "filePath": "{ClientTileSets}/farmer22.json"
+    }
+  ]
+}
