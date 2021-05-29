@@ -1,0 +1,16 @@
+{
+  "customControls": [
+    {
+      "name": "button",
+      "filePath": "{ClientUICustomControls}/button/button.json"
+    },
+    {
+      "name": "textbox",
+      "filePath": "{ClientUICustomControls}/textbox/textbox.json"
+    },
+    {
+      "name": "chatbox",
+      "filePath": "{ClientUICustomControls}/chatbox/chatbox.json"
+    }
+  ]
+}

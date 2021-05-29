@@ -1,0 +1,10 @@
+{
+  "shaders": [
+    {
+      "vertex": "vertex_single_texture",
+      "fragment": "fragment_single_texture"
+    }
+  ],
+  "color": "white",
+  "numberOfTextures": 1
+}

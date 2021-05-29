@@ -1,0 +1,67 @@
+{
+  "parameters": {
+    "text": "default text",
+    "color": "black",
+    "font": "text",
+    "texturePath": "{ClientUI}/ui_textures/textbox.png",
+    "onload": "{ClientUI}/custom_controls/textbox/textbox.js",
+    "onshutdown": "",
+    "onclick": "",
+    "onmouseenter": "",
+    "onmouseleave": "",
+    "onkeypress": "",
+    "onkeypress_enter": "",
+    "characterOverride": "",
+    "useMarkdown": "true",
+    "allowNewLines": "true"
+  },
+  "meta": {
+    "textControl": "labelText",
+    "type": "textbox"
+  },
+  "controls": [
+    {
+      "type": "texture",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100,
+      "texturePath": "##texturePath##",
+      "controls": [
+        {
+          "type": "label",
+          "id": "labelText",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100,
+          "text": "##text##",
+          "font": "##font##",
+          "color": "##color##",
+          "onload": "##onload##",
+          "onshutdown": "##onshutdown##",
+          "onclick": "##onclick##",
+          "onmouseenter": "##onmouseenter##",
+          "onmouseleave": "##onmouseleave##",
+          "onkeypress": "##onkeypress##",
+          "onkeypress_enter": "##onkeypress_enter##",
+          "characterOverride": "##characterOverride##",
+          "useMarkdown": "##useMarkdown##",
+          "allowNewLines": "##allowNewLines##",
+          "fitType": "free",
+          "controls": [
+            {
+              "type": "texture",
+              "id": "cursor",
+              "x": 10,
+              "y": 10,
+              "w": 10,
+              "h": 10,
+              "color": "#FFFFFFAA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "plots": [
+    {
+      "name": "9",
+      "tileSet": "test_tileset",
+      "tileX": 9,
+      "tileY": 0,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "10",
+      "tileSet": "test_tileset",
+      "tileX": 10,
+      "tileY": 0,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "11",
+      "tileSet": "test_tileset",
+      "tileX": 11,
+      "tileY": 0,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "50",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "51",
+      "tileSet": "test_tileset",
+      "tileX": 1,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "52",
+      "tileSet": "test_tileset",
+      "tileX": 2,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "53",
+      "tileSet": "test_tileset",
+      "tileX": 3,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "54",
+      "tileSet": "test_tileset",
+      "tileX": 4,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "55",
+      "tileSet": "test_tileset",
+      "tileX": 5,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "56",
+      "tileSet": "test_tileset",
+      "tileX": 6,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "57",
+      "tileSet": "test_tileset",
+      "tileX": 7,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "58",
+      "tileSet": "test_tileset",
+      "tileX": 8,
+      "tileY": 1,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "59",
+      "tileSet": "test_tileset",
+      "tileX": 9,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "60",
+      "tileSet": "test_tileset",
+      "tileX": 10,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "61",
+      "tileSet": "test_tileset",
+      "tileX": 11,
+      "tileY": 1,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "100",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 2,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "101",
+      "tileSet": "test_tileset",
+      "tileX": 1,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "102",
+      "tileSet": "test_tileset",
+      "tileX": 2,
+      "tileY": 2,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "103",
+      "tileSet": "test_tileset",
+      "tileX": 3,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "105",
+      "tileSet": "test_tileset",
+      "tileX": 5,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "106",
+      "tileSet": "test_tileset",
+      "tileX": 6,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "107",
+      "tileSet": "test_tileset",
+      "tileX": 7,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "108",
+      "tileSet": "test_tileset",
+      "tileX": 8,
+      "tileY": 2,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "150",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 3,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "151",
+      "tileSet": "test_tileset",
+      "tileX": 1,
+      "tileY": 3,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "152",
+      "tileSet": "test_tileset",
+      "tileX": 2,
+      "tileY": 3,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "153",
+      "tileSet": "test_tileset",
+      "tileX": 3,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "154",
+      "tileSet": "test_tileset",
+      "tileX": 4,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "155",
+      "tileSet": "test_tileset",
+      "tileX": 5,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "156",
+      "tileSet": "test_tileset",
+      "tileX": 6,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "157",
+      "tileSet": "test_tileset",
+      "tileX": 7,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "158",
+      "tileSet": "test_tileset",
+      "tileX": 8,
+      "tileY": 3,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "200",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 4,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "201",
+      "tileSet": "test_tileset",
+      "tileX": 1,
+      "tileY": 4,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "203",
+      "tileSet": "test_tileset",
+      "tileX": 3,
+      "tileY": 4,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "204",
+      "tileSet": "test_tileset",
+      "tileX": 4,
+      "tileY": 4,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "206",
+      "tileSet": "test_tileset",
+      "tileX": 6,
+      "tileY": 4,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "207",
+      "tileSet": "test_tileset",
+      "tileX": 7,
+      "tileY": 4,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "250",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 5,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "251",
+      "tileSet": "test_tileset",
+      "tileX": 1,
+      "tileY": 5,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": null
+    },
+    {
+      "name": "253",
+      "tileSet": "test_tileset",
+      "tileX": 3,
+      "tileY": 5,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "254",
+      "tileSet": "test_tileset",
+      "tileX": 4,
+      "tileY": 5,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "256",
+      "tileSet": "test_tileset",
+      "tileX": 6,
+      "tileY": 5,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "257",
+      "tileSet": "test_tileset",
+      "tileX": 7,
+      "tileY": 5,
+      "disallowedCharacterStates": null,
+      "animations": null
+    },
+    {
+      "name": "500",
+      "tileSet": null,
+      "tileX": 0,
+      "tileY": 0,
+      "disallowedCharacterStates": [
+        "idle",
+        "walk",
+        "run"
+      ],
+      "animations": [
+        {
+          "tileSet": "test_tileset",
+          "tileX": 0,
+          "tileY": 0,
+          "milliseconds": 500
+        },
+        {
+          "tileSet": "test_tileset",
+          "tileX": 1,
+          "tileY": 0,
+          "milliseconds": 500
+        },
+        {
+          "tileSet": "test_tileset",
+          "tileX": 2,
+          "tileY": 0,
+          "milliseconds": 500
+        }
+      ]
+    },
+    {
+      "name": "501",
+      "tileSet": null,
+      "tileX": 0,
+      "tileY": 0,
+      "disallowedCharacterStates": [
+        "run"
+      ],
+      "animations": [
+        {
+          "tileSet": "test_tileset",
+          "tileX": 3,
+          "tileY": 0,
+          "milliseconds": 500
+        },
+        {
+          "tileSet": "test_tileset",
+          "tileX": 4,
+          "tileY": 0,
+          "milliseconds": 500
+        },
+        {
+          "tileSet": "test_tileset",
+          "tileX": 5,
+          "tileY": 0,
+          "milliseconds": 500
+        }
+      ]
+    },
+    {
+      "name": "401",
+      "tileSet": "test_tileset",
+      "tileX": 0,
+      "tileY": 8,
+      "disallowedCharacterStates": null,
+      "animations": null
+    }
+  ]
+}

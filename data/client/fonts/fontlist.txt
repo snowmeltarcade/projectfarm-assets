@@ -1,0 +1,6 @@
+JFRocOut.ttf,50,loadingscreen
+HighlandGothicLightFLF.ttf,25,debuginfo
+HighlandGothicFLF-Bold.ttf,50,title
+HighlandGothicFLF.ttf,30,text
+HighlandGothicLightFLF.ttf,30,small_text
+HighlandGothicLightFLF.ttf,20,chatbox_text

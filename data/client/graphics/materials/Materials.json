@@ -1,0 +1,24 @@
+{
+  "materials": [
+    {
+      "name": "solid_color",
+      "filePath": "{ClientGraphicsMaterials}/solid_color.json"
+    },
+    {
+      "name": "solid_color_with_tex_coords",
+      "filePath": "{ClientGraphicsMaterials}/solid_color_with_tex_coords.json"
+    },
+    {
+      "name": "solid_color_with_tex_coords_with_mask",
+      "filePath": "{ClientGraphicsMaterials}/solid_color_with_tex_coords_with_mask.json"
+    },
+    {
+      "name": "single_texture",
+      "filePath": "{ClientGraphicsMaterials}/single_texture.json"
+    },
+    {
+      "name": "single_texture_with_mask",
+      "filePath": "{ClientGraphicsMaterials}/single_texture_with_mask.json"
+    }
+  ]
+}

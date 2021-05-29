@@ -1,0 +1,6 @@
+{
+    "tcpPort": 40000,
+    "clientUdpPort": 0,
+    "serverUdpPort": 40002,
+    "startingWorld": "test"
+}

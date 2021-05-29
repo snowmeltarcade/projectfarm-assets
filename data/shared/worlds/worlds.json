@@ -1,0 +1,12 @@
+{
+  "worlds": [
+    {
+      "name": "test",
+      "filePath": "{SharedWorlds}/test/test.bin"
+    },
+    {
+      "name": "myhouse",
+      "filePath": "{SharedWorlds}/myhouse/myhouse.bin"
+    }
+  ]
+}

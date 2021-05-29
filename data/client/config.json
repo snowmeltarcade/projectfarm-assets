@@ -1,0 +1,10 @@
+{
+    "tcpPort": 40000,
+    "clientUdpPort": 0,
+    "serverUdpPort": 40002,
+    "hostName": "127.0.0.1",
+    "screenWidth": 1024,
+    "screenHeight": 768,
+    "fullScreen": false,
+    "screenWidthInMeters": 20
+}

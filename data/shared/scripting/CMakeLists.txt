@@ -1,0 +1,1 @@
+CopyToData("js" "" "shared/scripting")

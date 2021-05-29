@@ -1,0 +1,11 @@
+{
+    "type": "farmer",
+    "appearance_hair": "random",
+    "appearance_body": "random",
+    "appearance_clothes_top": "random",
+    "appearance_clothes_bottom": "random",
+    "appearance_feet": "random",
+    "walk_speed": 1.4,
+    "run_speed": 12.5,
+    "script_path": "{ServerScriptsCharacters}/chicken.js"
+}

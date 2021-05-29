@@ -1,0 +1,1 @@
+CopyToData("json" "" "client/graphics/shaders")

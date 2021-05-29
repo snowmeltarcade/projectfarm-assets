@@ -1,0 +1,44 @@
+{
+  "shaders": [
+    {
+      "name": "fragment_solid_color",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color.frag"
+    },
+    {
+      "name": "vertex_solid_color",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color.vert"
+    },
+    {
+      "name": "fragment_solid_color_with_tex_coords",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color_with_tex_coords.frag"
+    },
+    {
+      "name": "vertex_solid_color_with_tex_coords",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color_with_tex_coords.vert"
+    },
+    {
+      "name": "fragment_solid_color_with_tex_coords_with_mask",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color_with_tex_coords_with_mask.frag"
+    },
+    {
+      "name": "vertex_solid_color_with_tex_coords_with_mask",
+      "filePath": "{ClientGraphicsShaders}/<>/solid_color_with_tex_coords_with_mask.vert"
+    },
+    {
+      "name": "fragment_single_texture",
+      "filePath": "{ClientGraphicsShaders}/<>/single_texture.frag"
+    },
+    {
+      "name": "vertex_single_texture",
+      "filePath": "{ClientGraphicsShaders}/<>/single_texture.vert"
+    },
+    {
+      "name": "fragment_single_texture_with_mask",
+      "filePath": "{ClientGraphicsShaders}/<>/single_texture_with_mask.frag"
+    },
+    {
+      "name": "vertex_single_texture_with_mask",
+      "filePath": "{ClientGraphicsShaders}/<>/single_texture_with_mask.vert"
+    }
+  ]
+}

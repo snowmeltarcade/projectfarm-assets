@@ -1,0 +1,11 @@
+{
+  "type": "chicken",
+  "appearance_hair": "random",
+  "appearance_body": "random",
+  "appearance_clothes_top": "none",
+  "appearance_clothes_bottom": "none",
+  "appearance_feet": "random",
+  "walk_speed": 0.5,
+  "run_speed": 4.0,
+  "script_path": "{ServerScriptsCharacters}/chicken.js"
+}

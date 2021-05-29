@@ -1,0 +1,12 @@
+{
+  "characters": [
+    {
+      "name": "farmer_male",
+      "filePath": "{ServerCharacters}/farmer_male.json"
+    },
+    {
+      "name": "chicken",
+      "filePath": "{ServerCharacters}/chicken.json"
+    }
+  ]
+}

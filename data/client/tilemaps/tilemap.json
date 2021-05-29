@@ -1,0 +1,107 @@
+{
+  "numberOfLayers": 3,
+  "widthInTiles": 8,
+  "heightInTiles": 8,
+  "tileWidth": 32,
+  "tileHeight": 32,
+  "tileSets": [
+    {
+      "index": 0,
+      "name": "tileset1"
+    },
+    {
+      "index": 1,
+      "name": "tileset2"
+    }
+  ],
+  "tiles": [
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 0, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 0, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 1, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 1, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 2, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 2, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 3, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 3, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 4, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 4, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 5, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 5, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 6, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 6, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 0, "tileX": 0, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 1, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 2, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 3, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 4, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 5, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 6, "tileY": 7, "indexAbsolute": 0 },
+    { "tileSetId": 0, "layer": 0, "tileX": 7, "tileY": 7, "indexAbsolute": 0 },
+
+    { "tileSetId": 0, "layer": 1, "tileX": 0, "tileY": 0, "indexAbsolute": 8 },
+    { "tileSetId": 0, "layer": 1, "tileX": 1, "tileY": 0, "indexAbsolute": 9 },
+    { "tileSetId": 0, "layer": 1, "tileX": 0, "tileY": 1, "indexAbsolute": 24 },
+    { "tileSetId": 0, "layer": 1, "tileX": 1, "tileY": 1, "indexAbsolute": 25 },
+    { "tileSetId": 0, "layer": 1, "tileX": 0, "tileY": 2, "indexAbsolute": 33 },
+    { "tileSetId": 0, "layer": 1, "tileX": 1, "tileY": 2, "indexAbsolute": 32 },
+    { "tileSetId": 0, "layer": 1, "tileX": 2, "tileY": 2, "indexAbsolute": 33 },
+    { "tileSetId": 0, "layer": 1, "tileX": 0, "tileY": 3, "indexAbsolute": 17 },
+    { "tileSetId": 0, "layer": 1, "tileX": 1, "tileY": 3, "indexAbsolute": 16 },
+    { "tileSetId": 0, "layer": 1, "tileX": 2, "tileY": 3, "indexAbsolute": 17 },
+
+    { "tileSetId": 0, "layer": 2, "tileX": 2, "tileY": 0, "indexAbsolute": 56 },
+    { "tileSetId": 0, "layer": 2, "tileX": 3, "tileY": 0, "indexAbsolute": 57 },
+
+    { "tileSetId": 1, "layer": 2, "tileX": 0, "tileY": 0, "indexAbsolute": 48 },
+    { "tileSetId": 1, "layer": 2, "tileX": 1, "tileY": 0, "indexAbsolute": 49 }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "parameters": {
+    "text": "default text",
+    "color": "black",
+    "font": "text",
+    "texturePath": "",
+    "onload": "",
+    "onshutdown": "",
+    "onclick": "",
+    "onmouseenter": "",
+    "onmouseleave": "",
+    "onkeypress": ""
+  },
+  "meta": {
+    "textControl": "labelText",
+    "type": "button"
+  },
+  "controls": [
+    {
+      "type": "texture",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100,
+      "texturePath": "##texturePath##",
+      "controls": [
+        {
+          "type": "label",
+          "id": "labelText",
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100,
+          "text": "##text##",
+          "font": "##font##",
+          "color": "##color##",
+          "onload": "##onload##",
+          "onshutdown": "##onshutdown##",
+          "onclick": "##onclick##",
+          "onmouseenter": "##onmouseenter##",
+          "onmouseleave": "##onmouseleave##",
+          "onkeypress": "##onkeypress##"
+        }
+      ]
+    }
+  ]
+}

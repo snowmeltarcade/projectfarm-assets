@@ -1,0 +1,10 @@
+{
+  "shaders": [
+    {
+      "vertex": "vertex_solid_color",
+      "fragment": "fragment_solid_color"
+    }
+  ],
+  "color": "white",
+  "numberOfTextures": 0
+}

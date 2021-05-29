@@ -1,0 +1,16 @@
+{
+  "uis": [
+    {
+      "name": "loading_screen",
+      "filePath": "{ClientUI}/LoadingScreen.json"
+    },
+    {
+      "name": "authenticate_screen",
+      "filePath": "{ClientUI}/AuthenticateScreen.json"
+    },
+    {
+      "name": "world_screen",
+      "filePath": "{ClientUI}/world_screen/WorldScreen.json"
+    }
+  ]
+}

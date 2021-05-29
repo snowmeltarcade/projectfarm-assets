@@ -1,0 +1,128 @@
+{
+  "controls": [
+    {
+      "type": "texture",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100,
+      "texturePath": "{ClientUI}/AuthenticateScreen.png",
+      "controls": [
+        {
+          "type": "label",
+          "x": 10,
+          "y": 5,
+          "w": 50,
+          "h": 10,
+          "text": "Authenticate",
+          "font": "title",
+          "color": "black"
+        },
+        {
+          "type": "label",
+          "x": 10,
+          "y": 15,
+          "w": 90,
+          "h": 15,
+          "text": "Please enter your username and password.\nIf you have not yet registered, please register first, and then enjoy!",
+          "font": "text",
+          "color": "black"
+        },
+        {
+          "type": "label",
+          "x": 10,
+          "y": 35,
+          "w": 20,
+          "h": 15,
+          "text": "Username: ",
+          "font": "text",
+          "color": "black"
+        },
+        {
+          "type": "custom",
+          "name": "textbox",
+          "id": "txtUsername",
+          "x": 32,
+          "y": 35,
+          "w": 50,
+          "h": 5,
+          "text": "",
+          "font": "text",
+          "color": "black",
+          "useMarkdown": "false",
+          "allowNewLines": "false"
+        },
+        {
+          "type": "label",
+          "x": 10,
+          "y": 55,
+          "w": 20,
+          "h": 10,
+          "text": "Password: ",
+          "font": "text",
+          "color": "black"
+        },
+        {
+          "type": "custom",
+          "name": "textbox",
+          "id": "txtPassword",
+          "x": 32,
+          "y": 55,
+          "w": 50,
+          "h": 5,
+          "text": "",
+          "font": "text",
+          "color": "black",
+          "characterOverride": "*",
+          "useMarkdown": "false",
+          "allowNewLines": "false"
+        },
+        {
+          "type": "custom",
+          "name": "button",
+          "id": "buttonLogin",
+          "x": 10,
+          "y": 65,
+          "w": 10,
+          "h": 5,
+          "text": "Login",
+          "font": "small_text",
+          "color": "black",
+          "texturePath": "{ClientUI}/ui_textures/button.png",
+          "onload": "{ClientUI}/AuthenticateScreen.js"
+        },
+        {
+          "type": "label",
+          "id": "labelError",
+          "x": 35,
+          "y": 65,
+          "w": 50,
+          "h": 20,
+          "text": "",
+          "font": "small_text",
+          "color": "red"
+        },
+        {
+          "type": "label",
+          "id": "labelStatus",
+          "x": 10,
+          "y": 90,
+          "w": 50,
+          "h": 7,
+          "text": "$$loading_status$$",
+          "font": "small_text",
+          "color": "black"
+        }
+      ]
+    },
+    {
+      "type": "mouseCursor",
+      "id": "mouseCursor",
+      "x": 50,
+      "y": 50,
+      "w": 5,
+      "h": 5,
+      "texturePath": "{ClientUI}/MouseCursor.png"
+    }
+  ]
+}
