@@ -1,1 +1,1 @@
-CopyToData("json" "" "client/graphics/shaders")
+CopyToData("json" "" "client/graphics/materials")
