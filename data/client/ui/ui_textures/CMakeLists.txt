@@ -1,1 +1,1 @@
-CopyToData("png" "" "client/ui")
+CopyToData("png" "" "client/ui/ui_textures")

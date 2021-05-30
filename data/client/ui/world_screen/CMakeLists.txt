@@ -1,3 +1,3 @@
-CopyToData("js" "" "client/ui")
-CopyToData("json" "" "client/ui")
-CopyToData("png" "" "client/ui")
+CopyToData("js" "" "client/ui/world_screen")
+CopyToData("json" "" "client/ui/world_screen")
+CopyToData("png" "" "client/ui/world_screen")
