@@ -22,6 +22,17 @@
           "color": "black",
           "texturePath": "{ClientUI}/ui_textures/button.png",
           "onload": "{ClientUI}/world_screen/buttonMenu.js"
+        },
+        {
+          "type": "custom",
+          "name": "chatbox",
+          "id": "chat",
+          "x": 10,
+          "y": 70,
+          "w": 80,
+          "h": 25,
+          "font": "chatbox_text",
+          "color": "black"
         }
       ]
     },
@@ -111,17 +122,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "custom",
-      "name": "chatbox",
-      "id": "chat",
-      "x": 10,
-      "y": 70,
-      "w": 80,
-      "h": 25,
-      "font": "chatbox_text",
-      "color": "black"
     },
     {
       "type": "mouseCursor",
