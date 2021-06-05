@@ -20,4 +20,5 @@ function onclick() {
 
     menu.is_visible = false;
     sceneUI.is_visible = true;
+    sceneUI.is_enabled = true;
 }
