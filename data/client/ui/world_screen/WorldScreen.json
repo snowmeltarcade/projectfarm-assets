@@ -99,13 +99,14 @@
       "w": 100,
       "h": 100,
       "isVisible": "false",
+      "canFocus": "false",
       "controls": [
         {
           "type": "texture",
           "x": 3,
           "y": 3,
           "w": 40,
-          "h": 10,
+          "h": 50,
           "color": "#22222222",
           "controls": [
             {
