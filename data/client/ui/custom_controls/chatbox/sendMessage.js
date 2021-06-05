@@ -68,6 +68,8 @@ function getChatBox() {
 
     var chatbox = self;
 
+    // we could be in any child control, so walk up the tree to get the
+    // actual chatbox control
     while (true) {
 
         chatbox = chatbox.get_parent_custom_control();

@@ -11,8 +11,7 @@ function on_message_receive(message, username, serverTime) {
     updateText(message, username, serverTime, chatbox);
 }
 
+// when the enter key is pressed, send the message
 function handle_onkeypress_enter_from_textbox() {
     sendMessage();
 }
-
-// when the enter key is pressed, send the message
