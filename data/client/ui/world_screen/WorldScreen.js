@@ -92,4 +92,5 @@ function close_current() {
     // switch between the menu and the scene ui
     menu.is_visible = !menu.is_visible;
     sceneUI.is_visible = !sceneUI.is_visible;
+    sceneUI.is_enabled = !sceneUI.is_enabled;
 }
