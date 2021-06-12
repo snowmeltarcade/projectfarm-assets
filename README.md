@@ -21,3 +21,7 @@ python3 install.py -p /path/to/projectfarm/
 The assets will be installed in the `data` directory.
 
 Note: When installing, any local changes will be overwritten. Please ensure any updated assets are first commited to this repository before installing.
+
+## License
+
+![GitHub](https://img.shields.io/github/license/snowmeltarcade/project-assets?style=plastic)
