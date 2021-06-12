@@ -24,4 +24,4 @@ Note: When installing, any local changes will be overwritten. Please ensure any 
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/snowmeltarcade/project-assets?style=plastic)
+![GitHub](https://img.shields.io/github/license/snowmeltarcade/projectfarm-assets?style=plastic)
