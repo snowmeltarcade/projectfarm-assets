@@ -6,25 +6,35 @@ function(CopyToData FILE_EXT FROM TO)
 
         configure_file("${FROM}${filename}" "${FROM}${filename}" COPYONLY)
 
-        install(
-            FILES
-                ${file}
-            DESTINATION
-                "${INSTALL_CLIENT_DIRECTORY}/data/${TO}"
-        )
+        if (IOS)
+            get_property(tmp GLOBAL PROPERTY IOS_RESOURCE_FILES_FROM)
+            list(APPEND tmp "${file}")
+            set_property(GLOBAL PROPERTY IOS_RESOURCE_FILES_FROM "${tmp}")
 
-        install(
+            get_property(tmp GLOBAL PROPERTY IOS_RESOURCE_FILES_TO)
+            list(APPEND tmp "${TO}")
+            set_property(GLOBAL PROPERTY IOS_RESOURCE_FILES_TO "${tmp}")
+        else()
+            install(
                 FILES
-                ${file}
+                    ${file}
                 DESTINATION
-                "${INSTALL_SERVER_DIRECTORY}/data/${TO}"
-        )
+                    "${INSTALL_CLIENT_DIRECTORY}/data/${TO}"
+            )
 
-        install(
+            install(
                 FILES
-                ${file}
+                    ${file}
                 DESTINATION
-                "${INSTALL_LATEST_DIRECTORY}/data/${TO}"
-        )
+                    "${INSTALL_SERVER_DIRECTORY}/data/${TO}"
+            )
+
+            install(
+                FILES
+                    ${file}
+                DESTINATION
+                    "${INSTALL_LATEST_DIRECTORY}/data/${TO}"
+            )
+        endif()
     endforeach()
 endfunction()
