@@ -54,10 +54,20 @@
           "y": 0,
           "w": 100,
           "h": 100,
-          "color": "#FFFFFF88",
+          "color": "transparent",
           "texturePath": "{ClientUI}/world_screen/MenuBackground.png",
           "isVisible": "true",
           "controls": [
+            {
+              "type": "label",
+              "x": 25,
+              "y": 10,
+              "w": 50,
+              "h": 10,
+              "text": "Menu",
+              "font": "text",
+              "color": "black"
+            },
             {
               "type": "custom",
               "name": "button",
@@ -123,10 +133,56 @@
           "y": 0,
           "w": 100,
           "h": 100,
-          "color": "#FFFFFF88",
+          "color": "transparent",
           "texturePath": "{ClientUI}/world_screen/MenuBackground.png",
           "isVisible": "false",
           "controls": [
+            {
+              "type": "label",
+              "x": 25,
+              "y": 10,
+              "w": 50,
+              "h": 10,
+              "text": "Graphics",
+              "font": "text",
+              "color": "black"
+            },
+            {
+              "type": "label",
+              "x": 25,
+              "y": 20,
+              "w": 50,
+              "h": 10,
+              "text": "Resolutions",
+              "font": "text",
+              "color": "black"
+            },
+            {
+              "type": "custom",
+              "name": "button",
+              "x": 25,
+              "y": 30,
+              "w": 40,
+              "h": 5,
+              "text": "800x600",
+              "font": "small_text",
+              "color": "black",
+              "texturePath": "{ClientUI}/ui_textures/button.png",
+              "onclick": "get_scene().send_message(\"set_screen_resolution\", 800, 600, false)"
+            },
+            {
+              "type": "custom",
+              "name": "button",
+              "x": 25,
+              "y": 40,
+              "w": 40,
+              "h": 5,
+              "text": "1024x768",
+              "font": "small_text",
+              "color": "black",
+              "texturePath": "{ClientUI}/ui_textures/button.png",
+              "onclick": "get_scene().send_message(\"set_screen_resolution\", 1024, 768, false)"
+            },
             {
               "type": "custom",
               "name": "button",
