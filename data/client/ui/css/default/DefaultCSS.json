@@ -1,0 +1,8 @@
+{
+  "defaultCSS": [
+    {
+      "name": "default",
+      "filePath": "{ClientUICSSDefault}/default.css"
+    }
+  ]
+}
