@@ -1,3 +1,23 @@
-.test-class {
+texture {
+    color: white;
+    texture: {ClientUI}/ui_textures/default_texture.png;
+}
+
+mouseCursor {
+    texture: {ClientUI}/MouseCursor.png;
+}
+
+label {
+    color: black;
+    font: text;
+}
+
+.error-text {
     color: red;
+    font: small_text;
+}
+
+.small-text {
+    color: black;
+    font: small_text;
 }
