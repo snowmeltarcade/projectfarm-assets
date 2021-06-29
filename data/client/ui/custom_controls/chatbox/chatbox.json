@@ -74,6 +74,7 @@
           "type": "custom",
           "name": "button",
           "id": "buttonSendMessage",
+          "isEnabled": "false",
           "x": 85,
           "y": 85,
           "w": 15,

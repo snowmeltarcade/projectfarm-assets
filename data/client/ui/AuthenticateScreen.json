@@ -6,7 +6,6 @@
       "y": 0,
       "w": 100,
       "h": 100,
-      "texturePath": "{ClientUI}/AuthenticateScreen.png",
       "controls": [
         {
           "type": "label",
@@ -81,14 +80,13 @@
           "type": "custom",
           "name": "button",
           "id": "buttonLogin",
+          "isEnabled": "false",
           "x": 10,
           "y": 65,
           "w": 10,
           "h": 5,
           "text": "Login",
           "font": "small_text",
-          "color": "black",
-          "texturePath": "{ClientUI}/ui_textures/button.png",
           "onload": "{ClientUI}/AuthenticateScreen.js"
         },
         {
@@ -121,8 +119,7 @@
       "x": 50,
       "y": 50,
       "w": 5,
-      "h": 5,
-      "texturePath": "{ClientUI}/MouseCursor.png"
+      "h": 5
     }
   ]
 }

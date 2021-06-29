@@ -1,9 +1,9 @@
 {
   "parameters": {
-    "text": "default text",
-    "color": "black",
-    "font": "text",
-    "texturePath": "",
+    "text": "css:text",
+    "color": "css:color",
+    "font": "css:font",
+    "texturePath": "css:texture",
     "onload": "",
     "onshutdown": "",
     "onclick": "",

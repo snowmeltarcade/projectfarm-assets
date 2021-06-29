@@ -3,6 +3,19 @@ texture {
     texture: {ClientUI}/ui_textures/default_texture.png;
 }
 
+button {
+    color: white;
+    texture: {ClientUI}/ui_textures/button.png;
+    text: Button Text;
+    font: text;
+}
+
+textbox {
+    color: white;
+    texture: {ClientUI}/ui_textures/textbox.png;
+    cursorTexture: {ClientUI}/ui_textures/textbox.png;
+}
+
 mouseCursor {
     texture: {ClientUI}/MouseCursor.png;
 }
