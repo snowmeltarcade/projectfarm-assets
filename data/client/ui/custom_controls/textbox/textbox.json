@@ -1,9 +1,11 @@
 {
   "parameters": {
-    "text": "default text",
-    "color": "black",
-    "font": "text",
-    "texturePath": "{ClientUI}/ui_textures/textbox.png",
+    "text": "Default Text",
+    "color": "css:color",
+    "text-color": "css:text-color",
+    "font": "css:font",
+    "texturePath": "css:texture",
+    "cursorTexturePath": "css:texture1",
     "onload": "{ClientUI}/custom_controls/textbox/textbox.js",
     "onshutdown": "",
     "onclick": "",
@@ -38,6 +40,7 @@
           "text": "##text##",
           "font": "##font##",
           "color": "##color##",
+          "text-color": "##text-color##",
           "onload": "##onload##",
           "onshutdown": "##onshutdown##",
           "onclick": "##onclick##",
@@ -48,7 +51,6 @@
           "characterOverride": "##characterOverride##",
           "useMarkdown": "##useMarkdown##",
           "allowNewLines": "##allowNewLines##",
-          "fitType": "free",
           "controls": [
             {
               "type": "texture",
@@ -57,7 +59,8 @@
               "y": 10,
               "w": 10,
               "h": 10,
-              "color": "#FFFFFFAA"
+              "texturePath": "##cursorTexturePath##",
+              "textureIndex": 1
             }
           ]
         }

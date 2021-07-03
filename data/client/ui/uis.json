@@ -6,7 +6,7 @@
     },
     {
       "name": "authenticate_screen",
-      "filePath": "{ClientUI}/AuthenticateScreen.json"
+      "filePath": "{ClientUI}/authenticate_screen/AuthenticateScreen.json"
     },
     {
       "name": "world_screen",

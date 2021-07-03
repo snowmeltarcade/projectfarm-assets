@@ -2,6 +2,7 @@
   "controls": [
     {
       "type": "texture",
+      "cssClass": "panel-background-solid",
       "x": 0,
       "y": 0,
       "w": 100,
@@ -9,13 +10,12 @@
       "controls": [
         {
           "type": "label",
+          "cssClass": "title-text",
           "x": 10,
           "y": 5,
           "w": 50,
           "h": 10,
-          "text": "Authenticate",
-          "font": "title",
-          "color": "black"
+          "text": "Authenticate"
         },
         {
           "type": "label",
@@ -23,9 +23,7 @@
           "y": 15,
           "w": 90,
           "h": 15,
-          "text": "Please enter your username and password.\nIf you have not yet registered, please register first, and then enjoy!",
-          "font": "text",
-          "color": "black"
+          "text": "Please enter your username and password.\nIf you have not yet registered, please register first, and then enjoy!"
         },
         {
           "type": "label",
@@ -33,9 +31,7 @@
           "y": 35,
           "w": 20,
           "h": 15,
-          "text": "Username: ",
-          "font": "text",
-          "color": "black"
+          "text": "Username: "
         },
         {
           "type": "custom",
@@ -46,8 +42,6 @@
           "w": 50,
           "h": 5,
           "text": "",
-          "font": "text",
-          "color": "black",
           "useMarkdown": "false",
           "allowNewLines": "false"
         },
@@ -57,9 +51,7 @@
           "y": 55,
           "w": 20,
           "h": 10,
-          "text": "Password: ",
-          "font": "text",
-          "color": "black"
+          "text": "Password: "
         },
         {
           "type": "custom",
@@ -70,8 +62,6 @@
           "w": 50,
           "h": 5,
           "text": "",
-          "font": "text",
-          "color": "black",
           "characterOverride": "*",
           "useMarkdown": "false",
           "allowNewLines": "false"
@@ -81,35 +71,33 @@
           "name": "button",
           "id": "buttonLogin",
           "isEnabled": "false",
+          "color": "blue",
           "x": 10,
           "y": 65,
           "w": 10,
           "h": 5,
           "text": "Login",
-          "font": "small_text",
-          "onload": "{ClientUI}/AuthenticateScreen.js"
+          "onload": "{ClientUI}/authenticate_screen/AuthenticateScreen.js"
         },
         {
           "type": "label",
           "id": "labelError",
+          "cssClass": "error-text",
           "x": 35,
           "y": 65,
           "w": 50,
           "h": 20,
-          "text": "",
-          "font": "small_text",
-          "color": "red"
+          "text": ""
         },
         {
           "type": "label",
           "id": "labelStatus",
+          "cssClass": "small-text",
           "x": 10,
           "y": 90,
           "w": 50,
           "h": 7,
-          "text": "$$loading_status$$",
-          "font": "small_text",
-          "color": "black"
+          "text": "$$loading_status$$"
         }
       ]
     },

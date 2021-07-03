@@ -4,16 +4,16 @@ texture {
 }
 
 button {
-    color: white;
-    texture: {ClientUI}/ui_textures/button.png;
-    text: Button Text;
+    text-color: white;
     font: text;
+    texture: {ClientUI}/ui_textures/button.png;
 }
 
 textbox {
-    color: white;
+    text-color: white;
+    font: text;
     texture: {ClientUI}/ui_textures/textbox.png;
-    cursorTexture: {ClientUI}/ui_textures/textbox.png;
+    texture1: {ClientUI}/MouseCursor.png;
 }
 
 mouseCursor {
@@ -21,16 +21,26 @@ mouseCursor {
 }
 
 label {
-    color: black;
+    text-color: #222222;
     font: text;
 }
 
 .error-text {
-    color: red;
+    text-color: red;
     font: small_text;
 }
 
 .small-text {
-    color: black;
+    text-color: black;
     font: small_text;
+}
+
+.title-text {
+    text-color: black;
+    font: title;
+}
+
+.panel-background-solid {
+    color: white;
+    texture: {ClientUI}/ui_textures/panel_background.png;
 }
