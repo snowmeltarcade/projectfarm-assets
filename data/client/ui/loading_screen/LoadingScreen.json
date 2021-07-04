@@ -1,0 +1,23 @@
+{
+  "controls": [
+    {
+      "type": "texture",
+      "cssClass": "panel-background-solid",
+      "x": 0,
+      "y": 0,
+      "w": 100,
+      "h": 100,
+      "controls": [
+        {
+          "type": "label",
+          "cssClass": "title-text",
+          "x": 10,
+          "y": 5,
+          "w": 50,
+          "h": 10,
+          "text": "Loading..."
+        }
+      ]
+    }
+  ]
+}

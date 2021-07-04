@@ -2,7 +2,7 @@
   "uis": [
     {
       "name": "loading_screen",
-      "filePath": "{ClientUI}/LoadingScreen.json"
+      "filePath": "{ClientUI}/loading_screen/LoadingScreen.json"
     },
     {
       "name": "authenticate_screen",
