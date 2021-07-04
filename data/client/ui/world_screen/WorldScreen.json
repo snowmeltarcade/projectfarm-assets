@@ -27,9 +27,7 @@
           "x": 10,
           "y": 70,
           "w": 80,
-          "h": 25,
-          "font": "chatbox_text",
-          "color": "black"
+          "h": 25
         }
       ]
     },
@@ -55,6 +53,7 @@
           "controls": [
             {
               "type": "label",
+              "cssClass": "title-text",
               "x": 25,
               "y": 10,
               "w": 50,
@@ -119,6 +118,7 @@
           "controls": [
             {
               "type": "label",
+              "cssClass": "title-text",
               "x": 25,
               "y": 10,
               "w": 50,

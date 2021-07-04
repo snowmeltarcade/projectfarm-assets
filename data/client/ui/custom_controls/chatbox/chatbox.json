@@ -1,9 +1,6 @@
 {
   "parameters": {
     "text": "default text",
-    "color": "black",
-    "font": "text",
-    "texturePath": "{ClientUI}/ui_textures/textbox.png",
     "onload": "{ClientUI}/custom_controls/chatbox/chatbox.js",
     "onshutdown": "",
     "onclick": "",
@@ -27,23 +24,21 @@
       "controls": [
         {
           "type": "texture",
+          "cssClass": "chatbox-background",
           "x": 0,
           "y": 0,
           "w": 100,
           "h": 80,
-          "color": "#FFFFFFAA",
-          "texturePath": "##texturePath##",
           "controls": [
             {
               "type": "label",
               "id": "labelText",
+              "cssClass": "chatbox-text",
               "x": 0,
               "y": 0,
               "w": 100,
               "h": 100,
               "text": "",
-              "font": "##font##",
-              "color": "##color##",
               "fitType": "free",
               "scrollToBottomOnTextAdd": "true",
               "maxLines": 20
@@ -54,13 +49,12 @@
           "type": "custom",
           "name": "textbox",
           "id": "textInput",
+          "cssClass": "chatbox-textinput",
           "x": 0,
           "y": 85,
           "w": 80,
           "h": 15,
           "text": "##text##",
-          "font": "##font##",
-          "color": "##color##",
           "allowNewLines": "false",
           "onshutdown": "##onshutdown##",
           "onclick": "##onclick##",
@@ -80,9 +74,6 @@
           "w": 15,
           "h": 15,
           "text": "Send",
-          "font": "chatbox_text",
-          "color": "black",
-          "texturePath": "{ClientUI}/ui_textures/button.png",
           "onclick": "{ClientUI}/custom_controls/chatbox/buttonSendMessage.js"
         }
       ]

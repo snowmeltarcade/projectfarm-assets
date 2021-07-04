@@ -51,6 +51,7 @@
           "characterOverride": "##characterOverride##",
           "useMarkdown": "##useMarkdown##",
           "allowNewLines": "##allowNewLines##",
+          "fitType": "free",
           "controls": [
             {
               "type": "texture",

@@ -13,7 +13,7 @@ textbox {
     text-color: white;
     font: text;
     texture: {ClientUI}/ui_textures/textbox.png;
-    texture1: {ClientUI}/MouseCursor.png;
+    texture1: {ClientUI}/ui_textures/button.png;
 }
 
 mouseCursor {
@@ -40,7 +40,34 @@ label {
     font: title;
 }
 
+.debug-text {
+    text-color: #00AA00AA;
+    font: text;
+}
+
 .panel-background-solid {
     color: white;
     texture: {ClientUI}/ui_textures/panel_background.png;
+}
+
+.panel-background-transparent {
+    color: #FFFFFF44;
+    texture: {ClientUI}/ui_textures/panel_background.png;
+}
+
+.chatbox-background {
+    color: #FFFFFFAA;
+    texture: {ClientUI}/ui_textures/textbox.png;
+}
+
+.chatbox-text {
+    color: white;
+    font: chatbox_text;
+}
+
+.chatbox-textinput {
+    text-color: white;
+    font: chatbox_text;
+    texture: {ClientUI}/ui_textures/textbox.png;
+    texture1: {ClientUI}/ui_textures/button.png;
 }
