@@ -17,7 +17,7 @@ textbox {
 }
 
 mouseCursor {
-    texture: {ClientUI}/MouseCursor.png;
+    texture: {ClientUI}/ui_textures/MouseCursor.png;
 }
 
 label {
