@@ -18,9 +18,6 @@
           "w": 10,
           "h": 5,
           "text": "Menu",
-          "font": "small_text",
-          "color": "black",
-          "texturePath": "{ClientUI}/ui_textures/button.png",
           "onload": "{ClientUI}/world_screen/buttonMenu.js"
         },
         {
@@ -39,23 +36,21 @@
     {
       "id": "menu",
       "type": "texture",
+      "cssClass": "panel-background-transparent",
       "x": 0,
       "y": 0,
       "w": 100,
       "h": 100,
-      "color": "#FFFFFF88",
-      "texturePath": "{ClientUI}/world_screen/MenuBackground.png",
       "isVisible": "false",
       "controls": [
         {
           "id": "mainMenuUI",
           "type": "texture",
+          "cssClass": "panel-background-transparent",
           "x": 0,
           "y": 0,
           "w": 100,
           "h": 100,
-          "color": "transparent",
-          "texturePath": "{ClientUI}/world_screen/MenuBackground.png",
           "isVisible": "true",
           "controls": [
             {
@@ -64,9 +59,7 @@
               "y": 10,
               "w": 50,
               "h": 10,
-              "text": "Menu",
-              "font": "text",
-              "color": "black"
+              "text": "Menu"
             },
             {
               "type": "custom",
@@ -77,9 +70,6 @@
               "w": 40,
               "h": 5,
               "text": "Show Debug UI",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onload": "{ClientUI}/world_screen/buttonShowDebugUI.js"
             },
             {
@@ -91,9 +81,6 @@
               "w": 40,
               "h": 5,
               "text": "Graphics",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onload": "{ClientUI}/world_screen/buttonShowGraphicsUI.js"
             },
             {
@@ -105,9 +92,6 @@
               "w": 40,
               "h": 5,
               "text": "Exit Game",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onload": "{ClientUI}/world_screen/buttonExitGame.js"
             },
             {
@@ -119,9 +103,6 @@
               "w": 10,
               "h": 5,
               "text": "Close",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onload": "{ClientUI}/world_screen/buttonCloseMenu.js"
             }
           ]
@@ -129,12 +110,11 @@
         {
           "id": "graphicsUI",
           "type": "texture",
+          "cssClass": "panel-background-transparent",
           "x": 0,
           "y": 0,
           "w": 100,
           "h": 100,
-          "color": "transparent",
-          "texturePath": "{ClientUI}/world_screen/MenuBackground.png",
           "isVisible": "false",
           "controls": [
             {
@@ -143,9 +123,7 @@
               "y": 10,
               "w": 50,
               "h": 10,
-              "text": "Graphics",
-              "font": "text",
-              "color": "black"
+              "text": "Graphics"
             },
             {
               "type": "label",
@@ -153,9 +131,7 @@
               "y": 20,
               "w": 50,
               "h": 10,
-              "text": "Resolutions",
-              "font": "text",
-              "color": "black"
+              "text": "Resolutions"
             },
             {
               "type": "custom",
@@ -165,9 +141,6 @@
               "w": 40,
               "h": 5,
               "text": "800x600",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onclick": "get_scene().send_message(\"set_screen_resolution\", 800, 600, false)"
             },
             {
@@ -178,9 +151,6 @@
               "w": 40,
               "h": 5,
               "text": "1024x768",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onclick": "get_scene().send_message(\"set_screen_resolution\", 1024, 768, false)"
             },
             {
@@ -192,9 +162,6 @@
               "w": 10,
               "h": 5,
               "text": "Back",
-              "font": "small_text",
-              "color": "black",
-              "texturePath": "{ClientUI}/ui_textures/button.png",
               "onload": "{ClientUI}/world_screen/buttonCloseGraphicsUI.js"
             }
           ]
@@ -213,22 +180,21 @@
       "controls": [
         {
           "type": "texture",
+          "cssClass": "panel-background-transparent",
           "x": 3,
           "y": 3,
           "w": 40,
           "h": 50,
-          "color": "#22222222",
           "controls": [
             {
               "id": "labelDebugInfo",
               "type": "label",
+              "cssClass": "debug-text",
               "x": 0,
               "y": 0,
               "w": 100,
               "h": 100,
-              "text": "$$debug_info$$",
-              "font": "text",
-              "color": "#00AA00AA"
+              "text": "$$debug_info$$"
             }
           ]
         }
